@@ -1,0 +1,46 @@
+[
+
+            {  "id":1,
+                "img":"img/profile2.jpg",
+                "nom":"abdelkarim",
+                "chats":[
+
+                    {"id":1,"status":"out","mes":"Hello, this is an outgoing message from me."},
+                    {"id":2,"status":"in","mes":"Hello, this is an incoming message from someone else."}
+                    
+                ]
+            },
+            
+            {  "id":2,
+                "img":"img/profile2.jpg",
+                "nom":"abdelrrahim",
+                "chats":[
+                    {"id":1,"status":"out","mes":"Hello, this is an outgoing message from me."},
+                    {"id":2,"status":"in","mes":"Hello, this is an incoming message from someone else."},
+                    {"id":3,"status":"out","mes":"Hello, this is an outgoing message from me."},
+                    {"id":4,"status":"in","mes":"hi, this is an incoming message from someone else."}
+                ]
+            },
+            
+            { 
+                "id":3,
+                "img":"img/profile2.jpg",
+                "nom":"akziz zakaria",
+                "chats":[
+                    {"id":1,"status":"out","mes":"Hello, this is an outgoing message from me."},
+                    {"id":2,"status":"in","mes":"Hello, this is an incoming message from someone else."},
+                    {"id":3,"status":"in","mes":"Hello, bro this is an incoming message from someone else."}
+                ]
+            },
+            {
+                "id":4,
+                "img":"img/profile2.jpg",
+                "nom":"anas err-akibi",
+                "chats":[
+                    {"id":1,"status":"out","mes":"Hello, this is an outgoing message from me."},
+                    {"id":2,"status":"in","mes":"Hello, mr:ahmed"}
+                ]
+            }
+            
+
+        ]
